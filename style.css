@@ -1,5 +1,4 @@
 
-body{
-    background-color: turquoise;
-
+div {
+    background: linear-gradient(to bottom, #99ccff 0%, #ccccff 100%);
 }

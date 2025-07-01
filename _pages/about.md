@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 hi
-![help](https://github.com/natpil/natpil.github.io/images/IMG_7711.jpg?raw=true)
+![help](https://github.com/natpil/natpil.github.io/blob/master/images/giphy.gif)

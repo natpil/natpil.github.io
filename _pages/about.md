@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-#hi
+hi
 
 
 ![help](https://github.com/natpil/natpil.github.io/blob/master/images/giphy.gif)

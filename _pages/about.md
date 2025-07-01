@@ -10,4 +10,4 @@ redirect_from:
 hi
 
 
-![help](https://github.com/natpil/natpil.github.io/images/giphy.gif)
+![help](< src="images/giphy.gif">)

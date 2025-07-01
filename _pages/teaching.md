@@ -8,6 +8,4 @@ redirect_from:
 ---
 
 
-hi
-
-{% include toc %}
+I teach math

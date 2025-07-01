@@ -10,4 +10,4 @@ redirect_from:
 hi
 
 
-![help](< src="images/giphy.gif">)
+![help](< src="https://giphy.com/gifs/this-is-fine-9M5jK4GXmD5o1irGrF">)

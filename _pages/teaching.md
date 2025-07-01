@@ -7,5 +7,4 @@ redirect_from:
   - /teaching.html
 ---
 
-
 I teach math

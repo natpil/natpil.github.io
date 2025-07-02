@@ -29,7 +29,7 @@ author:
   location         : #
   employer         : "Towson University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "none AT towson DOT edu" 
 
   # Academic websites
   academia         : # URL

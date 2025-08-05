@@ -7,4 +7,4 @@ redirect_from:
   - /teaching.html
 ---
 
-I teach math
+Fall 2025: MATH115 (College Algebra)

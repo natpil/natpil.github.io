@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-I like math
+My main research interests include mathematical logic and theoretical computer science. 

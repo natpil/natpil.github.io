@@ -6,6 +6,9 @@ venue: ""
 date: 2025-08-25
 ---
 
-Fall Semester 2025
+Fall Semester
 MATH115 (College Algebra)
 
+
+Spring 2026
+MATH263 (Discrete Mathematics)

@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience"
 collection: teaching
-permalink: /teaching/2025
+permalink: /teaching
 venue: ""
 date: 2025-08-25
 ---
